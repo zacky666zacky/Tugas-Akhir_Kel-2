@@ -1,0 +1,18 @@
+.background-orange {
+  background-color: #ffb200; /* Set the background color to orange */
+  padding: 25px 0; /* Add vertical padding for spacing */
+}
+
+.team-card {
+  width: 18rem; /* Set a fixed width for the card */
+  height: 24rem; /* Set a fixed height for the card */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.team-avatar {
+  width: 100%; /* Ensure the image fits the card width */
+  height: 24rem; /* Adjusted height to fit within the card */
+  object-fit: cover; /* Ensure the image scales and crops properly */
+}

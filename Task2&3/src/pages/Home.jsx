@@ -1,12 +1,14 @@
 import React from "react";
 import Banner from "../components/Banner";
-import CardCourse from "../components/CardCourse";
+import Footer from "../components/footer";
+import Teams from "../components/team";
 
 export default function Home() {
   return (
     <>
       <Banner />
-      {/* <CardCourse />/ */}
+      <Teams />
+      <Footer />
     </>
   );
 }

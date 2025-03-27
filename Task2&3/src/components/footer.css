@@ -1,0 +1,10 @@
+.footer-section {
+  background-color: white; /* Dark background color */
+  color: black; /* White text color */
+  padding: 20px 0; /* Add vertical padding */
+}
+
+.footer-text {
+  margin: 0; /* Remove default margin */
+  font-size: 14px; /* Set font size */
+}
