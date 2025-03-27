@@ -37,9 +37,9 @@ class SnapBI
             return $next($request);
         } else {
             return response()->json([
-                'status' => 599,
-                'message' => 'Anda Tidak Punya Akses',
-            ], 599);
+                'status' => 503,
+                'message' => 'Silahkan cek kembali header custom anda',
+            ], 503);
         }
     }
 }
