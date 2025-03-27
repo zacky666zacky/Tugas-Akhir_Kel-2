@@ -1,7 +1,7 @@
 # Tugas-Akhir_Kel-2
 Zacky, Freskha, Mozart, Adi
 
-# Tugas 1 - Auth
+## Tugas 1 - Auth
 - [x] Feature Login
 - [x] Feature Register
 - [x] Feature Logout
