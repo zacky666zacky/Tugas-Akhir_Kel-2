@@ -1,0 +1,9 @@
+.nav-link {
+  color: black !important; /* Memastikan warna default tetap hitam */
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #ffb200 !important; /* Memastikan warna hover menjadi #ffb200 */
+}

@@ -1,0 +1,45 @@
+Ektensi :
+- Es7 React/redux/GraphQL/React-Native snippets
+- Prettier - Code formatter
+
+cara install react vite :
+npm create vite@latest my-app -- --template react
+
+Cara membuat installasi react :
+https://react-awesome-reveal.morello.dev/guides/getting-started/
+
+Cara react bootrap :
+1. npm install react-bootstrap bootstrap react-awesome-reveal @emotion/react
+2. import 'bootstrap/dist/css/bootstrap.min.css'; di index.js
+
+packages yang digunakan :
+- react-awesome-reveal
+- react-bootstrap
+- bootrap
+- sweetalert2
+- react-router-dom
+
+packages api :
+- axios
+
+npm i sweetalert2 axios react-router-dom
+
+snippets Class Component(stattfull):
+rcc
+rcce
+
+snippets Function Component (stattless):
+rfc
+rfce
+rafce
+
+buat route > buat component > buat page > buat layout
+
+Tampilkan data dari reqres.in :
+https://reqres.in/
+
+https://reqres.in/api/users
+
+
+
+
