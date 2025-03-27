@@ -7,7 +7,7 @@ Zacky, Freskha, Mozart, Adi
 - [x] Feature Logout
 - [x] Feature Informasi Saldo
 
-composer install
-set env
-php artisan migrate
-php artisan ser
+- composer install
+- set env
+- php artisan migrate
+- php artisan ser
