@@ -2,7 +2,7 @@
 Zacky, Freskha, Mozart, Adi
 
 # Tugas 1 - Auth
-[x] Feature Login
-[x] Feature Register
-[x] Feature Logout
-[x] Feature Informasi Saldo
+- [x] Feature Login
+- [x] Feature Register
+- [x] Feature Logout
+- [x] Feature Informasi Saldo
